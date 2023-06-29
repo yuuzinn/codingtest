@@ -1,10 +1,17 @@
 package ch3;
 
+
 public class test05 {
     public static void main(String[] args) {
         test05 test = new test05();
         String solution = test.solution("...!@BaT#*..y.abcdefghijklm");
         System.out.println(solution);
+        String result = "ABcded 123 123 1123";
+        System.out.println(result.length());
+        String sub = result.substring(0, 6);
+        System.out.println("sub = " + sub);
+        String substring = result.substring(6, 16);
+        System.out.println("substring = " + substring);
     }
     public String solution(String new_id) {
         String answer = "";
@@ -12,7 +19,7 @@ public class test05 {
         System.out.println("1 answer = " + answer);
         answer = answer.replaceAll("[^a-z0-9.\\-_]", "");
         System.out.println("2 answer = " + answer);
-        answer = answer.replaceAll("[.]{2,}", "."); // 2¹øÀÌ»ó
+        answer = answer.replaceAll("[.]{2,}", "."); // 2ï¿½ï¿½ï¿½Ì»ï¿½
         System.out.println("3 answer = " + answer);
         answer = answer.replaceAll("^[.]|[.]$", "");
         System.out.println("4 answer = " + answer);
