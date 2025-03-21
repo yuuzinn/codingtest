@@ -1,20 +1,19 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int ord = 1;
-        while (ord != 0) {
-            ord = 0;
-            for (int i = 0; i < nums.length - 1; i++) {
-                if (nums[i] > nums[i + 1]) {
-                    swap(nums, i, i + 1);
-                    ord++;
-                }
+        int candidate = nums[0];
+        int count = 1;
+
+        for (int i = 1; i < nums.length; i++) {
+            // 후보가 바뀌는 if문
+            if (count == 0) {
+                candidate = nums[i];
+            }
+            if (nums[i] == candidate) {
+                count++;
+            } else {
+                count--;
             }
         }
-        return nums[nums.length/2];
-    }
-    public void swap (int[] arr, int idx1, int idx2) {
-        int tmp = arr[idx1];
-        arr[idx1] = arr[idx2];
-        arr[idx2] = tmp;
+        return candidate;
     }
 }
