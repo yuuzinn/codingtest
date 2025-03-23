@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/yuuzinn/codingtest/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuuzinn/codingtest/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/yuuzinn/codingtest/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yuuzinn/codingtest/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/yuuzinn/codingtest/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +55,5 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
