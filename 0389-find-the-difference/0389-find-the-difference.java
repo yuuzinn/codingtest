@@ -1,18 +1,19 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        // 아스키 코드 값 더하기 (s, t 따로)
-        char[] charArray1 = s.toCharArray();
-        char[] charArray2 = t.toCharArray();
-        int result1 = 0;
-        int result2 = 0;
-
-        for (char c : charArray1) {
-            result1 += c;
+        if(s.length() == 0) return t.charAt(0);
+        int [] s1 = new int[26];
+        for(int i=0; i<s.length(); i++){
+            s1[s.charAt(i)-97]++;
         }
-        for (char c : charArray2) {
-            result2 += c;
+        int [] s2 = new int[26];
+        for(int i=0; i<t.length(); i++){
+            s2[t.charAt(i)-97]++;
         }
-        // 더한 값 t - s return
-        return (char) (result2 - result1);
+        for(int i=0; i<t.length();i++){
+            if(s2[t.charAt(i)-97] != s1[t.charAt(i)-97]){
+                return t.charAt(i);
+            }
+        }
+        return 'a';
     }
 }
