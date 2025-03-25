@@ -11,11 +11,13 @@
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/yuuzinn/codingtest/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/yuuzinn/codingtest/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yuuzinn/codingtest/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/yuuzinn/codingtest/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -27,6 +29,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/yuuzinn/codingtest/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/yuuzinn/codingtest/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +66,8 @@
 | ------- |
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/yuuzinn/codingtest/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
