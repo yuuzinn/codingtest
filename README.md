@@ -14,6 +14,7 @@
 | [0455-assign-cookies](https://github.com/yuuzinn/codingtest/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/yuuzinn/codingtest/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yuuzinn/codingtest/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0455-assign-cookies](https://github.com/yuuzinn/codingtest/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/yuuzinn/codingtest/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yuuzinn/codingtest/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +54,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yuuzinn/codingtest/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -83,4 +87,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/yuuzinn/codingtest/tree/master/0561-array-partition) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
