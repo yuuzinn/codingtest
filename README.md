@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yuuzinn/codingtest/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/yuuzinn/codingtest/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yuuzinn/codingtest/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yuuzinn/codingtest/tree/master/0217-contains-duplicate) |
@@ -18,12 +19,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yuuzinn/codingtest/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/yuuzinn/codingtest/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/yuuzinn/codingtest/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yuuzinn/codingtest/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/yuuzinn/codingtest/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yuuzinn/codingtest/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/yuuzinn/codingtest/tree/master/0217-contains-duplicate) |
