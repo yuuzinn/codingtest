@@ -16,6 +16,7 @@
 | [0506-relative-ranks](https://github.com/yuuzinn/codingtest/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yuuzinn/codingtest/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
+| [0724-find-pivot-index](https://github.com/yuuzinn/codingtest/tree/master/0724-find-pivot-index) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Two Pointers
 |  |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/yuuzinn/codingtest/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
