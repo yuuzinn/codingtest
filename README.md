@@ -16,6 +16,7 @@
 | [0506-relative-ranks](https://github.com/yuuzinn/codingtest/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yuuzinn/codingtest/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/yuuzinn/codingtest/tree/master/0724-find-pivot-index) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Two Pointers
@@ -41,6 +42,7 @@
 | [0506-relative-ranks](https://github.com/yuuzinn/codingtest/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/yuuzinn/codingtest/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Hash Table
 |  |
@@ -52,6 +54,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Divide and Conquer
 |  |
@@ -62,6 +65,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/yuuzinn/codingtest/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -87,10 +91,12 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/yuuzinn/codingtest/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yuuzinn/codingtest/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/yuuzinn/codingtest/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 ## Counting Sort
 |  |
 | ------- |
