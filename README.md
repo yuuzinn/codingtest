@@ -17,6 +17,7 @@
 | [0561-array-partition](https://github.com/yuuzinn/codingtest/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuuzinn/codingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/yuuzinn/codingtest/tree/master/0724-find-pivot-index) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Two Pointers
@@ -43,6 +44,7 @@
 | [0561-array-partition](https://github.com/yuuzinn/codingtest/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuuzinn/codingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Hash Table
 |  |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yuuzinn/codingtest/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
