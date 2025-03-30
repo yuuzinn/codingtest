@@ -18,6 +18,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuuzinn/codingtest/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/yuuzinn/codingtest/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/yuuzinn/codingtest/tree/master/0724-find-pivot-index) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Two Pointers
@@ -45,6 +46,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuuzinn/codingtest/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/yuuzinn/codingtest/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Hash Table
 |  |
@@ -57,6 +59,7 @@
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
+| [0645-set-mismatch](https://github.com/yuuzinn/codingtest/tree/master/0645-set-mismatch) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Divide and Conquer
 |  |
@@ -89,6 +92,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/yuuzinn/codingtest/tree/master/0645-set-mismatch) |
 ## Greedy
 |  |
 | ------- |
