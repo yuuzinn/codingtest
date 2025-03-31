@@ -19,6 +19,7 @@
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuuzinn/codingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/yuuzinn/codingtest/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/yuuzinn/codingtest/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/yuuzinn/codingtest/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/yuuzinn/codingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
@@ -48,6 +49,7 @@
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuuzinn/codingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/yuuzinn/codingtest/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/yuuzinn/codingtest/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/yuuzinn/codingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Hash Table
@@ -62,6 +64,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/yuuzinn/codingtest/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/yuuzinn/codingtest/tree/master/0720-longest-word-in-dictionary) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Divide and Conquer
 |  |
@@ -78,6 +81,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/yuuzinn/codingtest/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
+| [0720-longest-word-in-dictionary](https://github.com/yuuzinn/codingtest/tree/master/0720-longest-word-in-dictionary) |
 ## Math
 |  |
 | ------- |
@@ -118,4 +122,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/yuuzinn/codingtest/tree/master/0724-find-pivot-index) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/yuuzinn/codingtest/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
