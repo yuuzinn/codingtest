@@ -20,6 +20,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/yuuzinn/codingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/yuuzinn/codingtest/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/yuuzinn/codingtest/tree/master/0724-find-pivot-index) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/yuuzinn/codingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuuzinn/codingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/yuuzinn/codingtest/tree/master/0645-set-mismatch) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/yuuzinn/codingtest/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Hash Table
 |  |
