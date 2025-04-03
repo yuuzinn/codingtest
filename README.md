@@ -26,6 +26,7 @@
 | [0941-sort-array-by-parity](https://github.com/yuuzinn/codingtest/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/yuuzinn/codingtest/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/yuuzinn/codingtest/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/yuuzinn/codingtest/tree/master/1018-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0941-sort-array-by-parity](https://github.com/yuuzinn/codingtest/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/yuuzinn/codingtest/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/yuuzinn/codingtest/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/yuuzinn/codingtest/tree/master/1018-largest-perimeter-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuuzinn/codingtest/tree/master/0628-maximum-product-of-three-numbers) |
+| [1018-largest-perimeter-triangle](https://github.com/yuuzinn/codingtest/tree/master/1018-largest-perimeter-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 | [0561-array-partition](https://github.com/yuuzinn/codingtest/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 | [0985-bag-of-tokens](https://github.com/yuuzinn/codingtest/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/yuuzinn/codingtest/tree/master/1018-largest-perimeter-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
