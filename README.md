@@ -27,6 +27,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/yuuzinn/codingtest/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/yuuzinn/codingtest/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/yuuzinn/codingtest/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/yuuzinn/codingtest/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0941-sort-array-by-parity](https://github.com/yuuzinn/codingtest/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/yuuzinn/codingtest/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/yuuzinn/codingtest/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/yuuzinn/codingtest/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/yuuzinn/codingtest/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/yuuzinn/codingtest/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/yuuzinn/codingtest/tree/master/1018-largest-perimeter-triangle) |
+| [1019-squares-of-a-sorted-array](https://github.com/yuuzinn/codingtest/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
