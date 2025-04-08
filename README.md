@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/yuuzinn/codingtest/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yuuzinn/codingtest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/yuuzinn/codingtest/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/yuuzinn/codingtest/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/yuuzinn/codingtest/tree/master/0506-relative-ranks) |
@@ -40,6 +41,7 @@
 | [0088-merge-sorted-array](https://github.com/yuuzinn/codingtest/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yuuzinn/codingtest/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yuuzinn/codingtest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/yuuzinn/codingtest/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/yuuzinn/codingtest/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/yuuzinn/codingtest/tree/master/0958-sort-array-by-parity-ii) |
@@ -58,6 +60,7 @@
 | [0242-valid-anagram](https://github.com/yuuzinn/codingtest/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yuuzinn/codingtest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/yuuzinn/codingtest/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/yuuzinn/codingtest/tree/master/0455-assign-cookies) |
@@ -86,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/yuuzinn/codingtest/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yuuzinn/codingtest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
@@ -123,6 +127,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/yuuzinn/codingtest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 ## Bit Manipulation
 |  |
