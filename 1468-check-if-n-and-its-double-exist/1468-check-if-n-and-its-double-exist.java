@@ -1,18 +1,20 @@
 class Solution {
     public boolean checkIfExist(int[] arr) {
-        int zeroCount = 0;
-        for (int j : arr) {
-            if (j == 0) zeroCount++;
-            if (zeroCount == 2) return true;
-        }
-        Set<Integer> set = new HashSet<>();
+        int[] freq = new int[2001];
         for (int num : arr) {
-            set.add(num);
+            freq[num + 1000]++;
         }
 
-        for (int num : arr) {
-            if (num != 0 && set.contains(num * 2)) {
-                return true;
+        for (int x = -1000; x <= 1000; x++) {
+            if (freq[x + 1000] > 0) {
+                if (x == 0) {
+                    if (freq[x + 1000] >= 2) return true;
+                } else {
+                    int dx = 2 * x;
+                    if (dx >= -1000 && dx <= 1000 && freq[dx + 1000] > 0) {
+                        return true;
+                    }
+                }
             }
         }
         return false;
