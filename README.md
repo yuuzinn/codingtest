@@ -34,6 +34,7 @@
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/yuuzinn/codingtest/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/yuuzinn/codingtest/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0985-bag-of-tokens](https://github.com/yuuzinn/codingtest/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/yuuzinn/codingtest/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/yuuzinn/codingtest/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/yuuzinn/codingtest/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +104,7 @@
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/yuuzinn/codingtest/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,6 +138,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yuuzinn/codingtest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
 | ------- |
