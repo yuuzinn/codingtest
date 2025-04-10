@@ -34,6 +34,7 @@
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/yuuzinn/codingtest/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/yuuzinn/codingtest/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/yuuzinn/codingtest/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/yuuzinn/codingtest/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/yuuzinn/codingtest/tree/master/1256-rank-transform-of-an-array) |
+| [1306-minimum-absolute-difference](https://github.com/yuuzinn/codingtest/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
