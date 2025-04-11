@@ -37,6 +37,7 @@
 | [1306-minimum-absolute-difference](https://github.com/yuuzinn/codingtest/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuuzinn/codingtest/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuuzinn/codingtest/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [1306-minimum-absolute-difference](https://github.com/yuuzinn/codingtest/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuuzinn/codingtest/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuuzinn/codingtest/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Hash Table
 |  |
 | ------- |
