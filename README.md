@@ -33,6 +33,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/yuuzinn/codingtest/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/yuuzinn/codingtest/tree/master/1137-height-checker) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/yuuzinn/codingtest/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/yuuzinn/codingtest/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/yuuzinn/codingtest/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -87,6 +88,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/yuuzinn/codingtest/tree/master/1019-squares-of-a-sorted-array) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
 | [1137-height-checker](https://github.com/yuuzinn/codingtest/tree/master/1137-height-checker) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/yuuzinn/codingtest/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/yuuzinn/codingtest/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/yuuzinn/codingtest/tree/master/1306-minimum-absolute-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
