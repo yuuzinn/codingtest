@@ -39,6 +39,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuuzinn/codingtest/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuuzinn/codingtest/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/yuuzinn/codingtest/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuuzinn/codingtest/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuuzinn/codingtest/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/yuuzinn/codingtest/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
