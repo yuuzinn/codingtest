@@ -36,6 +36,7 @@
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/yuuzinn/codingtest/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/yuuzinn/codingtest/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/yuuzinn/codingtest/tree/master/1306-minimum-absolute-difference) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/yuuzinn/codingtest/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuuzinn/codingtest/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuuzinn/codingtest/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -92,6 +93,7 @@
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/yuuzinn/codingtest/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/yuuzinn/codingtest/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/yuuzinn/codingtest/tree/master/1306-minimum-absolute-difference) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/yuuzinn/codingtest/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuuzinn/codingtest/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuuzinn/codingtest/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -129,6 +131,7 @@
 | [0347-top-k-frequent-elements](https://github.com/yuuzinn/codingtest/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/yuuzinn/codingtest/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## String
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/yuuzinn/codingtest/tree/master/0645-set-mismatch) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/yuuzinn/codingtest/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
