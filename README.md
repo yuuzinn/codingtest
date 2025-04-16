@@ -39,6 +39,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/yuuzinn/codingtest/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuuzinn/codingtest/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/yuuzinn/codingtest/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuuzinn/codingtest/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/yuuzinn/codingtest/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yuuzinn/codingtest/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -97,6 +98,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/yuuzinn/codingtest/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yuuzinn/codingtest/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/yuuzinn/codingtest/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuuzinn/codingtest/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/yuuzinn/codingtest/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yuuzinn/codingtest/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -171,6 +173,7 @@
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 | [0985-bag-of-tokens](https://github.com/yuuzinn/codingtest/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/yuuzinn/codingtest/tree/master/1018-largest-perimeter-triangle) |
+| [1519-minimum-subsequence-in-non-increasing-order](https://github.com/yuuzinn/codingtest/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
