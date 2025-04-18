@@ -42,6 +42,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/yuuzinn/codingtest/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuuzinn/codingtest/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/yuuzinn/codingtest/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuuzinn/codingtest/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yuuzinn/codingtest/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
@@ -101,6 +102,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/yuuzinn/codingtest/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuuzinn/codingtest/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/yuuzinn/codingtest/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuuzinn/codingtest/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yuuzinn/codingtest/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -158,6 +160,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/yuuzinn/codingtest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuuzinn/codingtest/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Bit Manipulation
 |  |
 | ------- |
