@@ -142,6 +142,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yuuzinn/codingtest/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/yuuzinn/codingtest/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/yuuzinn/codingtest/tree/master/0720-longest-word-in-dictionary) |
@@ -221,4 +222,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yuuzinn/codingtest/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/yuuzinn/codingtest/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
