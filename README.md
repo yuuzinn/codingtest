@@ -143,6 +143,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuuzinn/codingtest/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yuuzinn/codingtest/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/yuuzinn/codingtest/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/yuuzinn/codingtest/tree/master/0720-longest-word-in-dictionary) |
@@ -213,6 +214,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yuuzinn/codingtest/tree/master/0022-generate-parentheses) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
 ## Bucket Sort
 |  |
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuuzinn/codingtest/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/yuuzinn/codingtest/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
