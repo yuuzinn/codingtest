@@ -151,6 +151,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yuuzinn/codingtest/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuuzinn/codingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/yuuzinn/codingtest/tree/master/1018-largest-perimeter-triangle) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuuzinn/codingtest/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/yuuzinn/codingtest/tree/master/0070-climbing-stairs) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
 ## Bucket Sort
 |  |
@@ -232,4 +234,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/yuuzinn/codingtest/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yuuzinn/codingtest/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
