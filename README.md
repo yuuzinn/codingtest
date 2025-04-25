@@ -43,6 +43,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/yuuzinn/codingtest/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuuzinn/codingtest/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/yuuzinn/codingtest/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1720-crawler-log-folder](https://github.com/yuuzinn/codingtest/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuuzinn/codingtest/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yuuzinn/codingtest/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
@@ -150,6 +151,7 @@
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/yuuzinn/codingtest/tree/master/0720-longest-word-in-dictionary) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
+| [1720-crawler-log-folder](https://github.com/yuuzinn/codingtest/tree/master/1720-crawler-log-folder) |
 ## Math
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuuzinn/codingtest/tree/master/0020-valid-parentheses) |
+| [1720-crawler-log-folder](https://github.com/yuuzinn/codingtest/tree/master/1720-crawler-log-folder) |
 ## Backtracking
 |  |
 | ------- |
