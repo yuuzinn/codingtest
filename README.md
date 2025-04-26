@@ -29,6 +29,7 @@
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/yuuzinn/codingtest/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/yuuzinn/codingtest/tree/master/0958-sort-array-by-parity-ii) |
+| [0965-unique-email-addresses](https://github.com/yuuzinn/codingtest/tree/master/0965-unique-email-addresses) |
 | [0985-bag-of-tokens](https://github.com/yuuzinn/codingtest/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/yuuzinn/codingtest/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/yuuzinn/codingtest/tree/master/1019-squares-of-a-sorted-array) |
@@ -123,6 +124,7 @@
 | [0645-set-mismatch](https://github.com/yuuzinn/codingtest/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/yuuzinn/codingtest/tree/master/0720-longest-word-in-dictionary) |
 | [0924-fair-candy-swap](https://github.com/yuuzinn/codingtest/tree/master/0924-fair-candy-swap) |
+| [0965-unique-email-addresses](https://github.com/yuuzinn/codingtest/tree/master/0965-unique-email-addresses) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/yuuzinn/codingtest/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yuuzinn/codingtest/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -150,6 +152,7 @@
 | [0242-valid-anagram](https://github.com/yuuzinn/codingtest/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 | [0720-longest-word-in-dictionary](https://github.com/yuuzinn/codingtest/tree/master/0720-longest-word-in-dictionary) |
+| [0965-unique-email-addresses](https://github.com/yuuzinn/codingtest/tree/master/0965-unique-email-addresses) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
 | [1720-crawler-log-folder](https://github.com/yuuzinn/codingtest/tree/master/1720-crawler-log-folder) |
 ## Math
