@@ -155,6 +155,7 @@
 | [0965-unique-email-addresses](https://github.com/yuuzinn/codingtest/tree/master/0965-unique-email-addresses) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
 | [1720-crawler-log-folder](https://github.com/yuuzinn/codingtest/tree/master/1720-crawler-log-folder) |
+| [2401-count-asterisks](https://github.com/yuuzinn/codingtest/tree/master/2401-count-asterisks) |
 ## Math
 |  |
 | ------- |
