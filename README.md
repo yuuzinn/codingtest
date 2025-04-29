@@ -58,6 +58,7 @@
 | [0344-reverse-string](https://github.com/yuuzinn/codingtest/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yuuzinn/codingtest/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/yuuzinn/codingtest/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/yuuzinn/codingtest/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/yuuzinn/codingtest/tree/master/0958-sort-array-by-parity-ii) |
@@ -155,6 +156,7 @@
 | [0242-valid-anagram](https://github.com/yuuzinn/codingtest/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yuuzinn/codingtest/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0392-is-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/yuuzinn/codingtest/tree/master/0720-longest-word-in-dictionary) |
 | [0965-unique-email-addresses](https://github.com/yuuzinn/codingtest/tree/master/0965-unique-email-addresses) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
@@ -232,6 +234,7 @@
 | [0022-generate-parentheses](https://github.com/yuuzinn/codingtest/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/yuuzinn/codingtest/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/yuuzinn/codingtest/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0392-is-subsequence) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
 ## Bucket Sort
 |  |
