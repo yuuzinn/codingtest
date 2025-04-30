@@ -157,6 +157,7 @@
 | [0344-reverse-string](https://github.com/yuuzinn/codingtest/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/yuuzinn/codingtest/tree/master/0394-decode-string) |
 | [0720-longest-word-in-dictionary](https://github.com/yuuzinn/codingtest/tree/master/0720-longest-word-in-dictionary) |
 | [0965-unique-email-addresses](https://github.com/yuuzinn/codingtest/tree/master/0965-unique-email-addresses) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
@@ -248,6 +249,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yuuzinn/codingtest/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/yuuzinn/codingtest/tree/master/0394-decode-string) |
 | [1720-crawler-log-folder](https://github.com/yuuzinn/codingtest/tree/master/1720-crawler-log-folder) |
 ## Backtracking
 |  |
@@ -257,4 +259,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yuuzinn/codingtest/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/yuuzinn/codingtest/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
