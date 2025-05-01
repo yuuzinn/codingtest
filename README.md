@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/yuuzinn/codingtest/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/yuuzinn/codingtest/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/yuuzinn/codingtest/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/yuuzinn/codingtest/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/yuuzinn/codingtest/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yuuzinn/codingtest/tree/master/0347-top-k-frequent-elements) |
@@ -263,4 +264,20 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/yuuzinn/codingtest/tree/master/0394-decode-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yuuzinn/codingtest/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yuuzinn/codingtest/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yuuzinn/codingtest/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/yuuzinn/codingtest/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
