@@ -123,6 +123,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/yuuzinn/codingtest/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yuuzinn/codingtest/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yuuzinn/codingtest/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/yuuzinn/codingtest/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/yuuzinn/codingtest/tree/master/0645-set-mismatch) |
@@ -159,6 +160,7 @@
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/yuuzinn/codingtest/tree/master/0394-decode-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yuuzinn/codingtest/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0720-longest-word-in-dictionary](https://github.com/yuuzinn/codingtest/tree/master/0720-longest-word-in-dictionary) |
 | [0965-unique-email-addresses](https://github.com/yuuzinn/codingtest/tree/master/0965-unique-email-addresses) |
 | [1129-longest-string-chain](https://github.com/yuuzinn/codingtest/tree/master/1129-longest-string-chain) |
@@ -212,6 +214,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/yuuzinn/codingtest/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/yuuzinn/codingtest/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
