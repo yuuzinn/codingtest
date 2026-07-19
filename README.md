@@ -174,6 +174,7 @@
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yuuzinn/codingtest/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/yuuzinn/codingtest/tree/master/1018-largest-perimeter-triangle) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yuuzinn/codingtest/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -189,6 +190,7 @@
 | [0268-missing-number](https://github.com/yuuzinn/codingtest/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yuuzinn/codingtest/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/yuuzinn/codingtest/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yuuzinn/codingtest/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/yuuzinn/codingtest/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Greedy
 |  |
