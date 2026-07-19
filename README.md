@@ -45,6 +45,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/yuuzinn/codingtest/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/yuuzinn/codingtest/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/yuuzinn/codingtest/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1672-richest-customer-wealth](https://github.com/yuuzinn/codingtest/tree/master/1672-richest-customer-wealth) |
 | [1720-crawler-log-folder](https://github.com/yuuzinn/codingtest/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuuzinn/codingtest/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yuuzinn/codingtest/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -285,4 +286,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yuuzinn/codingtest/tree/master/0200-number-of-islands) |
+| [1672-richest-customer-wealth](https://github.com/yuuzinn/codingtest/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
